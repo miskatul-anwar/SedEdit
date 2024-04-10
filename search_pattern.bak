@@ -1,0 +1,1 @@
+sed -n --posix '/loan/p' sample.txt
