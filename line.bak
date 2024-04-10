@@ -1,0 +1,1 @@
+sed -n '3,5p' sample.txt

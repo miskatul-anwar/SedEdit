@@ -1,0 +1,1 @@
+sed --posix -i "s/Jan/Jany/g" sample.txt
